@@ -2,6 +2,15 @@ kyeong won
 2222
 
 git init
+git add README.md
 git add .
 git commit -m "comment"
 git log
+
+git remote add origin https://github.com/vvvvvv8818/project_name.git
+git push -u origin master
+깃을 서버에 보낸다~
+remote add 했던 이름으로~ (origin)
+
+git status
+
